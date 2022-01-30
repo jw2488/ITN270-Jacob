@@ -1,0 +1,110 @@
+    1  
+    2  ls
+    3  nano 
+    4  python 3
+    5  ls
+    6  python x
+    7  lsb_release -a
+    8  sudo apt update
+    9  git version 2.33.0
+   10  python3 --version
+   11  git config --global user.name "Jacob Weintraub"
+   12  git config --global user.email"jw2488@email.vccs.edu"\n
+   13  git config --global color.ui auto
+   14  pwd
+   15  11
+   16  ll
+   17  ls
+   18  mkdir ITP270lecture
+   19  ls
+   20  cd ITP270lecture
+   21  ls
+   22  clear
+   23  nano
+   24  nano ITP270Jacoblecture2.py
+   25  clear
+   26  python3 ITP270JacobLecture2.py
+   27  python3 ITP270Jacoblecture2.py
+   28  ls
+   29  nano ITP270Jacoblecture2.py
+   30  python3 ITP270Jacoblecture2.py
+   31  nano ITP270Jacoblecture2.py
+   32  python3 ITP270Jacoblecture2.py
+   33  nano ITP270Jacoblecture2.py
+   34  python3 ITP270Jacoblecture2.py
+   35  nano ITP270Jacoblecture2.py
+   36  python3 ITP270Jacoblecture2.py
+   37  nano ITP270Jacoblecture2.py
+   38  python3 ITP270Jacoblecture2.py
+   39  nano ITP270Jacoblecture2.py
+   40  python3 ITP270Jacoblecture2.py
+   41  nano ITP270Jacoblecture2.py
+   42  python3 ITP270Jacoblecture2.py
+   43  nano ITP270Jacoblecture2.py
+   44  python3 ITP270Jacoblecture2.py
+   45  nano ITP270Jacoblecture2.py
+   46  python3 ITP270Jacoblecture2.py
+   47  git initclear
+   48  ls
+   49  cd ..
+   50  git clone https://github.com/jw2488/ITN270-Jacob.git
+   51  ls
+   52  git clone https://github.com/jw2488/ITP270-Jacob.git
+   53  ls
+   54  clear
+   55  ls
+   56  pwd
+   57  cd ITP270
+   58  cd ITP270-Jacob
+   59  cp * -r /home/kali/newfolder
+   60  cd ..
+   61  ls
+   62  python3 ITP270Jacoblecture2.py
+   63  nano ITP270Jacoblecture2.pycd
+   64  clear
+   65  cd
+   66  ls
+   67  cd ITP270-Jacob
+   68  ls
+   69  cd ..
+   70  cd ITP270lecture/ls
+   71  ls
+   72  cd ITP270lecture/
+   73  ls
+   74  cat justAFile.py
+   75  touch  justAFile.py
+   76  cat justAFile.py
+   77  ls
+   78  python3 ITP270Jacoblecture2.py
+   79  clear
+   80  git init
+   81  clear
+   82  ls
+   83  cd ..
+   84  git clone https://github.com/jw2488/ITP270-Jacob.git
+   85  ls
+   86  git clone https://github.com/jw2488/ITP270-Jacob.git
+   87  ls
+   88  cd ITP270lecture/
+   89  ls
+   90  help cp
+   91  man cp
+   92  clear
+   93  cp ITP270Jacoblecture2.py ~/ITP270-Jacob
+   94  cd..
+   95  cd ..
+   96  ls
+   97  cd ITP270-Jacob
+   98  ls
+   99  cd ..
+  100  pwd
+  101  clear
+  102  ls
+  103  cd ITP270-Jacob
+  104  ls
+  105  git status
+  106  clear
+  107  git add -A
+  108  git status
+  109  ls
+  110  cd ITP270-Jacob
