@@ -38,3 +38,4 @@ usermod -U dprince
 #Unlocking if the password is not set
 
 usermod -p pass123 dprincey
+
